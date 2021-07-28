@@ -1,2 +1,2 @@
 # zwahbot
-Mentahan bot wa  😎 fitur nya cuna owner,sticker,group okay
+Mentahan bot wa  😎 fitur nya cuma owner,sticker,group okay
