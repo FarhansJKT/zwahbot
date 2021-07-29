@@ -1,4 +1,4 @@
-![Foto Aja](./src/Farhanjs/depresod.jpg)
+![Foto Aja](https://raw.githubusercontent.com/Riripii/zwahbot/master/src/Farhanjs/depresod.jpg)
 <br>
 
 ---
