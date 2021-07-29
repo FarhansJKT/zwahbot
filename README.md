@@ -22,13 +22,16 @@ This repo require a NodeJS >= 11.15.0
 Ikuti aja ngab
 
 ```bash
-> pkg install git
-> git clone https://github.com/Riripii/zwahbot
+donwload .zip -> exstrak di internal
+
+> cp -r zwahbot /$HOME
+> cd
 > cd zwahbot
+> echo "waw"
 > bash install.sh
 ```
 
-## HOW TO RUN SC
+## HOW TO RUN BOT
 
 ```bash
 > node index.js
