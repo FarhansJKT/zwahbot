@@ -10,6 +10,9 @@
 <a href="https://github.com/Riripii"><img title="Author" src="https://img.shields.io/badge/AUTHOR-FARHAN-orange?style=for-the-badge&logo=github"></a>
 </p>
 
+## INFO
+Script sudah tersedia node_modules nya jadi tdk perlu install lagi
+
 ## REQUESTS
 ```bash
 This repo require a NodeJS >= 11.15.0
