@@ -32,3 +32,15 @@ Ikuti aja ngab
 ```
 
 ## FITUR
+
+ FITUR | YES |
+| :-----------------: | :-------: |
+| Verify|✅|
+| Sticker|✅|
+
+ MENU | YES |
+| :-----------------: | :-------: |
+| Ownermenu|✅|
+| Groupmenu|✅|
+| Gamemenu|✅|
+| Soundmenu|✅|
